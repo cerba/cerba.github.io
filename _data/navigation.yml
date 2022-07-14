@@ -1,9 +1,13 @@
 main:
-  - title: "Posts"
-    url: /posts/
-  - title: "Categories"
-    url: /categories/
-  - title: "Tags"
-    url: /tags/
+  - title: "Home"
+    url: /home/
   - title: "About"
     url: /about/
+  - title: "Research Group"
+    url: /research_group/
+  #- title: "News"
+  #  url: /news/
+  - title: "Teaching"
+    url: /teaching/
+  - title: "Software/Research Products"
+    url: /software/    
