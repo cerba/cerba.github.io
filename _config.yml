@@ -59,7 +59,7 @@ plugins:
 
 author:
   name   : "Christi Erba"
-  avatar : "/assets/images/bio-photo.jpg"
+  avatar : "/assets/images/DSC_3860.jpg"   # "/assets/images/bio-photo.jpg"
   bio    : "Hi! This website is currently under construction. My awesome biography constrained to a sentence or two goes here."
   links:
     - label: "Website"
