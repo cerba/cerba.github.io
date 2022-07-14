@@ -58,7 +58,7 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Dr. Christi Erba"
+  name   : "Christi Erba"
   avatar : "/assets/images/DSC_3860.jpg"   # "/assets/images/bio-photo.jpg"
   bio    : " Research Assistant Professor
              Dept. of Physics & Astronomy
