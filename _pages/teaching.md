@@ -5,11 +5,13 @@ layout: splash
 header:
   overlay_color: "#000"
   overlay_filter: "0.1"
-  overlay_image: /assets/images/moon_danecannon_2022nov1_im3.jpeg
+  overlay_image: /assets/images/moon_danecannon_2022nov1_im4.jpeg
   caption: "Photo credit: **Dane Cannon**"
 feature_row_left_1:
-  - image_path: /assets/images/james-wheeler-unsplash.jpg
-    alt: "placeholder image 2"
+  - image_path: <figure style="width: 300px" class="align-left">
+                <img src="{{ site.url }}{{ site.baseurl }}/assets/images/james-wheeler-unsplash.jpg" alt="">
+                <figcaption>Sample Figure Caption</figcaption>
+                </figure>
     title: "Astronomy I"
     excerpt: 'Lab Instructor; ETSU Fall 2022'
     url: "https://elearn.etsu.edu/d2l/login"
@@ -19,7 +21,6 @@ feature_row_left_1:
   
 feature_row_left_2:
   - image_path: /assets/images/mcnair_desk_resized.jpg
-    alt: "placeholder image 2"
     title: "Research Methods in Physics"
     excerpt: 'ETSU Ronald McNair Program, Summer 2022 '
     url: "https://www.notion.so/cerba/McNair-Summer-2022-Research-Methods-in-Physics-486a3e30896e498b8a39e2d05c76ce3c"
