@@ -5,7 +5,7 @@ layout: splash
 header:
   overlay_color: "#000"
   overlay_filter: "0.1"
-  overlay_image: /assets/images/moon_danecannon_2022nov1_im1.jpeg
+  overlay_image: /assets/images/moon_danecannon_2022nov1_im3.jpeg
   caption: "Photo credit: **Dane Cannon**"
 feature_row_left_1:
   - image_path: /assets/images/james-wheeler-unsplash.jpg
@@ -21,7 +21,7 @@ feature_row_right_1:
   - image_path: /assets/images/mcnair_desk_resized.jpg
     alt: "placeholder image 2"
     title: "Research Methods in Physics"
-    excerpt: 'ETSU Ronald McNair Program, Summer 2022 type="right"'
+    excerpt: 'ETSU Ronald McNair Program, Summer 2022 type="right" '
     url: "[#test-link](https://www.notion.so/cerba/McNair-Summer-2022-Research-Methods-in-Physics-486a3e30896e498b8a39e2d05c76ce3c)"
     btn_label: "Class Website"
     btn_class: "btn--primary"
