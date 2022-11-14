@@ -60,7 +60,7 @@ plugins:
 author:
   name   : "Christi Erba"
   avatar : "/assets/images/DSC_3860.jpg"   # "/assets/images/bio-photo.jpg"
-  bio    : " Research Assistant Professor\nDept. of Physics & Astronomy\nEast Tennessee State University "
+  bio    : " Research Assistant Professor\ Dept. of Physics & Astronomy\ East Tennessee State University "
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
