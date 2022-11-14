@@ -3,7 +3,7 @@ permalink: /about/
 title: "About"
 ---
 
-# Thanks for visiting! This page is currently under construction -- check back soon for updates.
+<!-- Thanks for visiting! This page is currently under construction -- check back soon for updates. ---!>
 
 Dr. Christi Erba is a Research Assistant Professor in the Department of Physics & Astronomy at East Tennessee State University. She is an alumna of the University of Rochester (Rochester, NY, USA) and the University of Delaware (Newark, DE, USA), where she studied Physics with a research concentration in Stellar Astrophysics.
 
