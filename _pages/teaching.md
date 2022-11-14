@@ -8,10 +8,7 @@ header:
   overlay_image: /assets/images/moon_danecannon_2022nov1_im4.jpeg
   caption: "Photo credit: **Dane Cannon**"
 feature_row_left_1:
-  - image_path: <figure style="width: 300px" class="align-left">
-                <img src="{{ site.url }}{{ site.baseurl }}/assets/images/james-wheeler-unsplash.jpg" alt="">
-                <figcaption>Sample Figure Caption</figcaption>
-                </figure>
+  - image_path: /assets/images/james-wheeler-unsplash.jpg
     title: "Astronomy I"
     excerpt: 'Lab Instructor; ETSU Fall 2022'
     url: "https://elearn.etsu.edu/d2l/login"
