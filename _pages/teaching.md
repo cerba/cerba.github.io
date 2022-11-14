@@ -1,5 +1,5 @@
 ------
-# title: "Splash Page"
+title: "Splash Page"
 layout: splash
 permalink: /teaching/
 header:
