@@ -1,7 +1,6 @@
 ---
 permalink: /teaching/
 title: "Teaching"
----
 layout: splash
 header:
   overlay_color: "#000"
