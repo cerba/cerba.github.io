@@ -6,7 +6,7 @@ header:
   overlay_color: "#000"
   overlay_filter: "0.1"
   overlay_image: /assets/images/ed-robertson-unsplash.jpg
-  caption: "Photo by <a href="https://unsplash.com/@eddrobertson?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Ed Robertson</a> on <a href="https://unsplash.com/@cerba/likes?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>"
+  caption: "Photo Credit: Ed Robertson on Unsplash"
 
 feature_row_left_1:
   - image_path: /assets/images/grace_photo_resized.jpg
