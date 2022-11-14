@@ -25,7 +25,6 @@ feature_row_left_3:
 
 ---
 
-
 {% include feature_row id="feature_row_left_1" type="left" %}
 
 {% include feature_row id="feature_row_left_2" type="left" %}
