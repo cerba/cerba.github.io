@@ -22,7 +22,7 @@ feature_row_left_2:
     alt: "placeholder image 2"
     title: "Research Methods in Physics"
     excerpt: 'ETSU Ronald McNair Program, Summer 2022 '
-    url: "[#test-link](https://www.notion.so/cerba/McNair-Summer-2022-Research-Methods-in-Physics-486a3e30896e498b8a39e2d05c76ce3c)"
+    url: "https://www.notion.so/cerba/McNair-Summer-2022-Research-Methods-in-Physics-486a3e30896e498b8a39e2d05c76ce3c"
     btn_label: "Class Website"
     btn_class: "btn--primary"
 ---
