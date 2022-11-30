@@ -11,17 +11,17 @@ header:
 feature_row_left_1:
   - image_path: /assets/images/grace_photo_resized.jpg
     title: "Grace Anderson"
-    excerpt: 'Grace is a 2022 McNair Scholar.'
+    excerpt: 'Project: Astronomy in Appalachian Culture. Anticipated graduation: Spring 2024. Grace is an undergraduate student in the Department of Physics and Astronomy at ETSU. She is a 2022 McNair Scholar.'
   
 feature_row_left_2:
   - image_path: /assets/images/trevor_photo_resized.jpg
     title: "Trevor Cox"
-    excerpt: 'Trevor is a 2022 McNair Scholar.'
+    excerpt: 'Project: Astronomy in Appalachian Culture. Anticipated graduation: Spring 2024. Trevor is an undergraduate student in the Department of Physics and Astronomy at ETSU. They also hold a B.B.A. in General Management from ETSU and are a 2022 McNair Scholar.'
 
 feature_row_left_3:
   - image_path: /assets/images/
     title: "Simeon Ignace"
-    excerpt: 'Simeon is a research intern for SpecPolFlow.'
+    excerpt: 'Project: SpecPolFlow. Anticipated graduation: Spring 2023. Simeon is a Senior undergraduate student in the Department of Physics and Astronomy at ETSU.'
 
 ---
 
