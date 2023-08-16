@@ -5,7 +5,7 @@ categories:
   - blog
 ---
 
-<figure class="third">
+<figure>
 	<img src="/assets/images/Erba_dessertwexperts.jpg">
 </figure>
 
