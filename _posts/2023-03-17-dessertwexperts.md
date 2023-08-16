@@ -1,5 +1,5 @@
 ---
-title: "Join Me at "Dessert with the Experts" "
+title: "Join Me at Dessert with the Experts "
 date: 2023-03-17T16:32:00-05:00
 categories:
   - blog
