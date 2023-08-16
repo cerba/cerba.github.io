@@ -9,6 +9,6 @@ categories:
 	<img src="/assets/images/Erba_dessertwexperts.jpg">
 </figure>
 
-Come hear me speak about our new Planetarium Show at "Dessert with the Experts," on March 20th, 7pm. See the above flyer for details!
+Come hear me speak about our new Planetarium Show at "Dessert with the Experts," on March 20th, 7pm. See the above flyer for details! <br>
 
 Talk Title: Astronomy in Appalachia: Inherited Perspectives on Our Night Sky
