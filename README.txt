@@ -2,8 +2,18 @@ Credits for Images:
 
 	Banner: Photo by Paul Pastourmatzis on Unsplash
 		https://unsplash.com/@pueblovista
-
-
+	
+	Presentation Skills: Photo by Mika Baumeister on Unsplash
+		https://unsplash.com/@kommumikation
+	
+	Research Methods: Photo by Unseen Studios on Unsplash
+		https://unsplash.com/@uns__nstudio
+	
+	Variable Stars: Photo by Kyle Gregory on Unsplash
+		https://unsplash.com/@kyledevaras
+	
+	Watch this Space: Photo by Samuel Regan-Asante on Unsplash
+		https://unsplash.com/@reganography 
 
 
 
