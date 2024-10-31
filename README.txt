@@ -13,8 +13,10 @@ Credits for Images:
 		https://unsplash.com/@kyledevaras
 	
 	Watch this Space: Photo by Samuel Regan-Asante on Unsplash
-		https://unsplash.com/@reganography 
-
+		https://unsplash.com/@reganography
+	
+	Congratulations Graduates: Photo by Keith Luke on Unsplash
+		https://unsplash.com/@lukephotography
 
 
 Credits for Website Template:
