@@ -18,6 +18,9 @@ Credits for Images:
 	Congratulations Graduates: Photo by Keith Luke on Unsplash
 		https://unsplash.com/@lukephotography
 
+	News: Photo by Markus Winkler on Unsplash
+		https://unsplash.com/@markuswinkler
+
 
 Credits for Website Template:
 
