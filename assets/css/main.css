@@ -2143,6 +2143,12 @@ input, select, textarea {
 			width: 2em;
 		}
 
+	/* Make Academicons play nicely with Forty */
+	.icon.ai:before {
+		font-family: "Academicons" !important;
+		font-weight: normal !important;
+	}
+	
 	a.icon.alt:before {
 		-moz-transition: background-color 0.2s ease-in-out;
 		-webkit-transition: background-color 0.2s ease-in-out;
@@ -3950,3 +3956,9 @@ input, select, textarea {
 			opacity: 1;
 			visibility: visible;
 		}
+
+.button.primary .ai {
+  font-size: 1.5em;   
+  line-height: 1;         /* prevents button stretching */
+  vertical-align: -0.15em; /* keeps it centered */
+}
